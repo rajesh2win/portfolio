@@ -24,16 +24,20 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> Java and Python. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are building &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Highly scalable, Secure and Reliable distributed systems </b>and
                 also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                <b className="purple">                
+                Cloud Technologies i.e AWS & GCP .
+                </b>
+                <br/>
+                <b className="purple">  
+                Experienced with Requirement Analysis, Technology Evaluation, Product design and Prototyping.
                 </b>
               </i>
               <br />
@@ -45,7 +49,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> Node.js and React.js</b>
+                <b className="purple"> Angular, Node.js and React.js</b>
               </i>
             </p>
           </Col>
@@ -64,7 +68,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/rajesh2win"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -74,7 +78,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/rajesh2win"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -84,22 +88,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/rajesh-nallamothu-45ab90a/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
                 </a>
               </li>
             </ul>

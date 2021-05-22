@@ -74,7 +74,7 @@ function Projects() {
               link="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
             />
           </Col>
-        </Row>
+        </Row> 
         <h1 className="project-heading">
           My Recent <strong className="purple">Blog </strong> Posts
         </h1>
